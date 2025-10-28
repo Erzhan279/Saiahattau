@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # === 🔐 Параметрлер ===
-BOT_TOKEN = "8110766276:AAHZVFiCBXGh3d7vihZHNAaBIPwnqgpaNoY"
+BOT_TOKEN = "8110766276:AAHZvFiCBXGh3d7vihZHNAaBIPwnqgpaNoY"
 GEMINI_API_KEY = "AIzaSyDM2rDqMM1eV6fEHCU-xcLxE1a_GW1v-sQ"
 
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
