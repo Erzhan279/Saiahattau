@@ -16,8 +16,8 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 # =======================================================
 # 🔐 Мұнда өз токендеріңді қой:
 # -------------------------------------------------------
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+TELEGRAM_TOKEN = "8110766276:AAHZVFiCBXGh3d7vihZHNAaBIPwnqgpaNoY"
+GEMINI_API_KEY = "AIzaSyDM2rDqMM1eV6fEHCU-xcLxE1a_GW1v-sQ"
 # =======================================================
 
 SYSTEM_PROMPT = """
